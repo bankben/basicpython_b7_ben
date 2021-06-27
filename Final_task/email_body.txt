@@ -1,0 +1,4 @@
+Isi Email
+
+Hallo, ini email yang dikirm pakai code python.
+Terima kasih
